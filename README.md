@@ -4,7 +4,9 @@ Up/down stopwatch (00–59 s) with lap, written in SystemVerilog for the Altera 
 
 
 
-https://github.com/user-attachments/assets/f8a8a7fb-cb2a-452d-9b5d-f9f5d8954e25
+
+https://github.com/user-attachments/assets/83f6090d-a01c-4bc3-8837-7cb76ee2c2a7
+
 
 
 
