@@ -9,6 +9,6 @@ Self-checking testbenches (Icarus Verilog 12, EDA Playground), both print `ALL T
 - `testbench/tb_stopwatch_ctrl.sv` – control FSM: Start/Stop, direction, Lap/Reset, reset behavior
 - `testbench/tb_bcd_digit.sv` – two chained BCD digits (0..59) compared with a reference model, up and down, wrap flags
 
-testbench/bcd_digit_waveform.png.png
+[testbench/bcd_digit_waveform.png.png](https://github.com/andriykdotsenko/stopwatch_cpld/blob/993b356b11ca773f39678f700efb0e25310ad022/testbench/bcd_digit_waveform.png.png)
 
 The ones digit wraps 9 → 0 and `wrap_ones` increments the tens digit.
