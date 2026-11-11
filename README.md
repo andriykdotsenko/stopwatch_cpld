@@ -1,4 +1,4 @@
-# stopwatch_fpga
+# stopwatch_cpld
 
 Up/down stopwatch (00–59 s) with lap, written in SystemVerilog for the Altera MAX II EPM570 CPLD. Two 7-segment displays, three buttons, 50 MHz clock.
 
